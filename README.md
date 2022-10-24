@@ -1,37 +1,15 @@
-# Session ID - Session Title
+# AD260 -  Build Your Own Digital Experience with SAP Build Work Zone
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2022 session called Session ID - Session Title.  
+Welcome to SAP Build Work Zone, Advanced edition hands-on
 
 ## Overview
 
-This session introduces attendees to...
+This session introduces attendees to SAP Build Work Zone, Advanced edition, key capabilities.
 
-## Requirements
-
-The requirements to follow the exercises in this repository are...
-
-## Exercises
-
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
-
-- [Getting Started](exercises/ex0/)
-- [Exercise 1 - First Exercise Description](exercises/ex1/)
-    - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
-- [Exercise 2 - Second Exercise Description](exercises/ex2/)
-    - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
-
-  
-**OR** Link to the Tutorial Navigator for example...
-
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
-
-**IMPORTANT**
-
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
+Start the exercises [here](https://developers.sap.com/mission.workzone-workshop.html).
+To complete it, please use [this BTP link](https://cockpit.eu10.hana.ondemand.com/cockpit/#/globalaccount/0de5d7ac-3b8d-494f-a56c-5cabe2acc705/accountModel&//?section=HierarchySection&view=TreeTableView) and get a user name and a password from the instructor. 
 
 ## How to obtain support
 
