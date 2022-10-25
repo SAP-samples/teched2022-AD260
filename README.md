@@ -2,14 +2,14 @@
 
 ## Description
 
-Welcome to SAP Build Work Zone, Advanced edition hands-on
+Welcome to SAP Build Work Zone, advanced edition hands-on workshop.
 
 ## Overview
 
-This session introduces attendees to SAP Build Work Zone, Advanced edition, key capabilities.
+This session introduces attendees to key capabilities of SAP Build Work Zone, advanced edition.
 
 Start the exercises [here](https://developers.sap.com/mission.workzone-workshop.html).
-To complete it, please use [this BTP link](https://cockpit.eu10.hana.ondemand.com/cockpit/#/globalaccount/0de5d7ac-3b8d-494f-a56c-5cabe2acc705/accountModel&//?section=HierarchySection&view=TreeTableView), and get a user name and a password from the instructor. 
+For system access, please use [this BTP link](https://cockpit.eu10.hana.ondemand.com/cockpit/#/globalaccount/0de5d7ac-3b8d-494f-a56c-5cabe2acc705/accountModel&//?section=HierarchySection&view=TreeTableView), and get a user name and a password from the instructor. 
 
 ## How to obtain support
 
