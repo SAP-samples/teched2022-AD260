@@ -1,3 +1,5 @@
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2022-AD260)](https://api.reuse.software/info/github.com/SAP-samples/teched2022-AD260)
+
 # AD260 -  Build Your Own Digital Experience with SAP Build Work Zone
 
 ![Title](exercises/Title.png)
